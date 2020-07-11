@@ -1,6 +1,8 @@
 [submodule "Alink"]
 	path = Alink
-	url = ../A/
+	url = https://github.com/hannoyer/A.git
+	branch = dev
 [submodule "Blink"]
 	path = Blink
 	url = https://github.com/hannoyer/B.git
+	branch = dev
